@@ -203,3 +203,6 @@ sns.boxplot(x="Row ID",data=df2)
 ## BOXPLOT KURTOSIS
 
 ![output](/o.png)
+
+# RESULT:
+Thus we have read the given data and performed the univariate analysis with different types of plots.
