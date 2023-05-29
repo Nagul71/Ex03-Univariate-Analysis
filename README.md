@@ -85,124 +85,147 @@ sns.boxplot(x="Row ID",data=df2)
 # OUTPUT:
 
 # DIABETES.csv
+![Screenshot 2023-05-29 215840](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/9d0add0c-d13f-472f-a69c-e0c57e361d66)
 
-![output](/1.png)
 
 ## INFO
 
-![output](/2.png)
+![Screenshot 2023-05-29 215847](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/eb41de83-33b1-49d3-a633-c052bbc57204)
+
 
 ## ISNULL.SUM
+![Screenshot 2023-05-29 215852](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/e2178ba4-3332-48fd-8e37-9c0d5ce83756)
 
-![output](/3.png)
+
 
 ## DTYPES
+![Screenshot 2023-05-29 215901](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/909c2582-3592-4640-acdb-dbc47f1df49a)
 
-![output](/4.png)
+
 
 ## DESCRIBE
 
-![output](/5.png)
+![Screenshot 2023-05-29 215907](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/fbc725be-cf8d-4835-bcaf-7c88d2b6cfc8)
+
 
 ## VALUECOUNTS
+![Screenshot 2023-05-29 215933](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/0013c23d-c434-4b47-88ad-6371ff591954)
 
-![output](/6.png)
+
 
 ## BOXPLOT
 
-![output](/7.png)
+![Screenshot 2023-05-29 215937](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/edd09d03-c35d-46e2-8602-def08664f8d5)
+
 
 ## COUNTPLOT
+![Screenshot 2023-05-29 215943](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/afda6a8a-85f3-4232-947a-0f0da0817c59)
 
-![output](/8.png)
 
 ## DISTPLOT
+![Screenshot 2023-05-29 215950](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/9ee5512c-a490-4b83-922d-524833f519e8)
 
-![output](/9.png)
 
 ## HISTPLOT
 
-![output](/10.png)
+![Screenshot 2023-05-29 215957](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/b365618e-85ac-410c-bc5c-63e149d9f9df)
+
 
 ## SKEW
+![Screenshot 2023-05-29 220003](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/b881eb2c-dc39-4924-8bbf-9acec96e4baa)
 
-![output](/11.png)
 
 ## DISTPLOT SKEW
 
-![output](/12.png)
+![Screenshot 2023-05-29 220012](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/78460e8f-e4af-4f38-9285-a8efc53a6576)
+
 
 ## HISTPLOT SKEW
 
-![output](/13.png)
+![Screenshot 2023-05-29 220017](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/3e46e5f0-f4e1-4b1c-9f4b-b9432236d086)
+
 
 ## KURTOSIS
+![Screenshot 2023-05-29 220022](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/8d585b2b-8825-4d40-8427-57c0f4654959)
 
-![output](/14.png)\
+
 
 ## BOXPLOT KURTOSIS
 
-![output](/15.png)
+![Screenshot 2023-05-29 220026](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/58547041-8833-453f-afc0-1ecc683f69b4)
+
 
 # SUPERSTORE.csv
 
-![output](/a.png)
+![Screenshot 2023-05-29 220040](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/8293005f-b788-46c1-a26e-7e56b6c28c07)
 
 ## ISNULL.SUM
+![Screenshot 2023-05-29 220046](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/8e888348-2d64-40b2-99fd-283b4ab687c3)
 
-![output](/b.png)
+
 
 ## AFTER CLEANING
 
-![output](/c.png)
+![Screenshot 2023-05-29 220052](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/74414b11-4f95-4e0b-8807-6f54d43e6637)
+
 
 ## DTYPES
+![Screenshot 2023-05-29 220058](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/5d401b24-8e9d-4c7c-8027-899529fe6e1c)
 
-![output](/d.png)
+
 
 ## DESCRIBE
 
-![output](/e.png)
+![Screenshot 2023-05-29 220104](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/2a1bb2a4-716e-44b9-b947-ea72085fe192)
+
 
 ## VALUECOUNTS
 
-![output](/f.png)
+![Screenshot 2023-05-29 220109](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/a8718d96-7a69-4905-a2cc-38cd85ffa809)
+
 
 ## BOXPLOT
 
-![output](/g.png)
+![Screenshot 2023-05-29 220114](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/487e1924-04bf-46d9-8e4f-c81933b1bd7f)
+
 
 ## COUNTPLOT
+![Screenshot 2023-05-29 220120](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/9633286b-0ce4-4fac-b8be-28c442248ec9)
 
-![output](/h.png)
 
 ## DISTPLOT
+![Screenshot 2023-05-29 220127](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/86b0e62f-4862-4943-9bb9-bb83a432393a)
 
-![output](/i.png)
+
 
 ## HISTPLOT
 
-![output](/j.png)
+![Screenshot 2023-05-29 220134](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/4e190e5f-5fad-416e-aa75-9158667b5a50)
+
 
 ## SKEW
+![Screenshot 2023-05-29 220140](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/8b5815a2-dceb-48af-8033-2d8a93422310)
 
-![output](/k.png)
 
 ## DISTPLOT SKEW
 
-![output](/l.png)
+![Screenshot 2023-05-29 220147](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/9b23c8de-589b-4d4a-84fa-d9f8169871cd)
+
 
 ## HISTPLOT SKEW
 
-![output](/m.png)
+![Screenshot 2023-05-29 220154](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/2d6b68cd-d413-46f8-9694-2a5a698a67dc)
+
 
 ## KURTOSIS
+![Screenshot 2023-05-29 220200](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/ddfe8c10-2310-479f-8cb7-a30bfae04f75)
 
-![output](/n.png)
+
 
 ## BOXPLOT KURTOSIS
 
-![output](/o.png)
+![Screenshot 2023-05-29 220205](https://github.com/Nagul71/Ex03-Univariate-Analysis/assets/118661118/82120631-f7f2-4bf3-816c-b1a1ffbcd1eb)
+
 
 # RESULT:
 Thus we have read the given data and performed the univariate analysis with different types of plots.
